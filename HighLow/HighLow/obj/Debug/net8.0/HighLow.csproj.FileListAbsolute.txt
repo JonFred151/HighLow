@@ -1,0 +1,15 @@
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\bin\Debug\net8.0\HighLow.exe
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\bin\Debug\net8.0\HighLow.deps.json
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\bin\Debug\net8.0\HighLow.runtimeconfig.json
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\bin\Debug\net8.0\HighLow.dll
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\bin\Debug\net8.0\HighLow.pdb
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\HighLow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\HighLow.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\HighLow.AssemblyInfo.cs
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\HighLow.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\HighLow.sourcelink.json
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\HighLow.dll
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\refint\HighLow.dll
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\HighLow.pdb
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\HighLow.genruntimeconfig.cache
+C:\Users\Jon\repos\HighLow\HighLow\HighLow\obj\Debug\net8.0\ref\HighLow.dll
