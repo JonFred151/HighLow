@@ -1,0 +1,15 @@
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\bin\Debug\net8.0\FavoriteSubject.exe
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\bin\Debug\net8.0\FavoriteSubject.deps.json
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\bin\Debug\net8.0\FavoriteSubject.runtimeconfig.json
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\bin\Debug\net8.0\FavoriteSubject.dll
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\bin\Debug\net8.0\FavoriteSubject.pdb
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\FavoriteSubject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\FavoriteSubject.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\FavoriteSubject.AssemblyInfo.cs
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\FavoriteSubject.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\FavoriteSubject.sourcelink.json
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\FavoriteSubject.dll
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\refint\FavoriteSubject.dll
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\FavoriteSubject.pdb
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\FavoriteSubject.genruntimeconfig.cache
+C:\Users\Jon\repos\HighLow\FavoriteSubject\FavoriteSubject\obj\Debug\net8.0\ref\FavoriteSubject.dll
